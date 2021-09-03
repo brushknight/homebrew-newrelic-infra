@@ -1,4 +1,4 @@
-class NewrelicInfraAgent < Formula
+class AgentAT1202 < Formula
   desc "New Relic infrastructure agent"
   homepage "https://github.com/newrelic/infrastructure-agent"
   url "https://github.com/newrelic/infrastructure-agent/archive/refs/tags/1.20.2.tar.gz"
